@@ -173,6 +173,22 @@ Voorbeelden:
 - Bulkbewerkingen en meerdere certificaatwijzigingen gebeuren eerst op de branch `cert-import-work`
 - Document github.dev as preferred bulk editor
 
+- 
+## Standaard werkwijze voor nieuwe certificaten
+
+1. Werk voor meerdere wijzigingen vanuit de branch `cert-import-work`
+2. Voeg nieuwe certificaten eerst toe aan certificates-template.csv
+3. Controleer provider, type, domein, niveau, datumformaat en tags
+4. Zet alleen gecontroleerde records over naar data/certificates.json
+5. Controleer de website na commit of merge
+6. Gebruik een pull request om branchwijzigingen terug te zetten naar `main`
+
+### Praktische regel
+- Eerst structureren in CSV
+- Daarna publiceren in JSON
+- Daarna visueel controleren op de site
+
+
 
 ## Volgende uitbreidingen
 
