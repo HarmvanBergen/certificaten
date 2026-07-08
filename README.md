@@ -171,6 +171,8 @@ Voorbeelden:
 - JSON is de **sitebron**
 - Wijzig certificaten bij voorkeur niet ad-hoc alleen in JSON
 
+Document github.dev as preferred bulk editor
+
 
 ## Volgende uitbreidingen
 
