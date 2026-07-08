@@ -102,6 +102,57 @@ Je kunt de JSON handmatig bewerken of eerst de CSV-template invullen en daarna d
 - Houd `issue_date` en `expiry_date` strak in `YYYY-MM-DD` voor correcte filtering.
 - Gebruik pull requests of minimaal duidelijke commit messages, zodat je changes later kunt herleiden.
 
+- ## Invoerstandaard certificaten
+
+### Providers
+- Microsoft
+- LinkedIn
+- Kaseya
+- Boot.dev
+
+### Types
+- Certification
+- Course
+- Training
+- Course Path
+
+### Domeinen
+- Cloud
+- Endpoint / M365
+- AI
+- Customer Service
+- HR / People
+- Communication
+- Leadership
+- Automation
+- Development
+- Security
+- Operations
+
+### Niveaus
+- Beginner
+- Intermediate
+- Advanced
+
+### Datumformaat
+Gebruik altijd:
+- `YYYY-MM-DD`
+
+Voorbeelden:
+- `2026-01-02`
+- `2025-11-14`
+
+### Tag-regels
+- Gebruik 3 tot 5 tags per certificaat
+- Gebruik duidelijke, herbruikbare termen
+- Vermijd doublures zoals `M365` en `Microsoft 365` door elkaar
+- Gebruik bij voorkeur product-, rol- of vaardigheidsgerichte tags
+
+### Eerste vaste keuzes
+- `Microsoft 365` is de standaardtag, niet `M365`
+- `Endpoint / M365` is het standaard domein voor moderne werkplek/Microsoft 365-certificaten
+- `Cloud` gebruik je alleen als cloudkennis echt een kernonderdeel is
+
 ## Volgende uitbreidingen
 
 - detailpagina per certificaat
