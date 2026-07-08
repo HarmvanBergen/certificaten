@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mijn Certificaten | Portfolio & Overzicht</title>
+  <meta name="description" content="Overzicht van certificaten per domein, provider, niveau en status." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <p class="eyebrow">Certificaat Portfolio</p>
+      <h1>Mijn certificaten overzicht</h1>
+      <p class="lead">Een filterbaar overzicht van certificaten van Microsoft, LinkedIn, Kaseya en Boot.dev — geordend op domein, niveau en status.</p>
+      <div class="kpis" id="kpis">
+        <div class="kpi"><span id="kpi-total">0</span><label>Totaal</label></div>
+        <div class="kpi"><span id="kpi-active">0</span><label>Actief</label></div>
+        <div class="kpi"><span id="kpi-expiring">0</span><label>Verloopt binnenkort</label></div>
+        <div class="kpi"><span id="kpi-domains">0</span><label>Domeinen</label></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <h2>Filters</h2>
+      <div class="filters">
+        <label>
+          Provider
+          <select id="filter-provider"><option value="">Alles</option></select>
+        </label>
+        <label>
+          Domein
+          <select id="filter-domain"><option value="">Alles</option></select>
+        </label>
+        <label>
+          Niveau
+          <select id="filter-level"><option value="">Alles</option></select>
+        </label>
+        <label>
+          Status
+          <select id="filter-status"><option value="">Alles</option><option>Actief</option><option>Verloopt binnenkort</option><option>Verlopen</option><option>Geen vervaldatum</option></select>
+        </label>
+        <label>
+          Zoek
+          <input id="filter-search" type="search" placeholder="Zoek op titel, provider of tag" />
+        </label>
+        <button id="clear-filters" class="btn-secondary">Wis filters</button>
+      </div>
+    </section>
+
+    <section class="panel two-column">
+      <div>
+        <h2>Alle certificaten</h2>
+        <p class="muted" id="result-count">0 resultaten</p>
+      </div>
+      <div class="legend">
+        <span class="badge badge-success">Actief</span>
+        <span class="badge badge-warning">Verloopt binnenkort</span>
+        <span class="badge badge-danger">Verlopen</span>
+        <span class="badge badge-neutral">Geen vervaldatum</span>
+      </div>
+    </section>
+
+    <section id="cards" class="cards"></section>
+
+    <section class="panel">
+      <h2>Taxonomie / categorieën</h2>
+      <div class="taxonomy-grid">
+        <div>
+          <h3>Technisch</h3>
+          <ul>
+            <li>Cloud</li>
+            <li>Security</li>
+            <li>Automation</li>
+            <li>Development</li>
+            <li>Endpoint / M365</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Mens & proces</h3>
+          <ul>
+            <li>Customer Service</li>
+            <li>Communication</li>
+            <li>Leadership</li>
+            <li>HR / People</li>
+            <li>Process Improvement</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Strategisch</h3>
+          <ul>
+            <li>AI</li>
+            <li>Consultancy</li>
+            <li>Service Delivery</li>
+            <li>Operations</li>
+            <li>Business Skills</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <p>Gebouwd als statische site voor GitHub Pages. Data komt uit <code>data/certificates.json</code>.</p>
+  </footer>
+
+  <template id="card-template">
+    <article class="card">
+      <div class="card-header">
+        <div>
+          <p class="provider"></p>
+          <h3 class="title"></h3>
+        </div>
+        <span class="status badge"></span>
+      </div>
+      <div class="meta"></div>
+      <p class="description"></p>
+      <div class="tags"></div>
+      <div class="card-actions"></div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
