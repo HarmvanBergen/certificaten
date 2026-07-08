@@ -1,107 +1,17 @@
 [
   {
-    "title": "Microsoft Certified: Azure Administrator Associate",
+    "title": "Microsoft 365 Certified: Fundamentals (MS-900)",
     "provider": "Microsoft",
     "type": "Certification",
-    "domains": [
-      "Cloud",
-      "Endpoint / M365"
-    ],
-    "level": "Intermediate",
-    "issue_date": "2025-11-14",
-    "expiry_date": "2026-11-14",
-    "credential_id": "MS-EXAMPLE-001",
-    "credential_url": "https://learn.microsoft.com/credentials/",
-    "learning_path": "Cloud Engineer",
-    "description": "Bevestigt kennis van Azure-resources, governance, storage, compute en netwerkbeheer.",
-    "tags": [
-      "Azure",
-      "Administration",
-      "Support"
-    ]
-  },
-  {
-    "title": "Generative AI for Customer Service Professionals",
-    "provider": "LinkedIn",
-    "type": "Course",
-    "domains": [
-      "AI",
-      "Customer Service"
-    ],
+    "domains": ["Cloud", "Endpoint / M365"],
     "level": "Beginner",
-    "issue_date": "2026-03-01",
+    "issue_date": "01/02/2026",
     "expiry_date": "",
-    "credential_id": "LI-EXAMPLE-014",
-    "credential_url": "https://www.linkedin.com/",
-    "learning_path": "AI in Support",
-    "description": "Richt zich op praktische inzet van AI in support- en klantgerichte processen.",
-    "tags": [
-      "Prompting",
-      "Communication",
-      "Service Desk"
-    ]
-  },
-  {
-    "title": "Kaseya Product Technical Foundations",
-    "provider": "Kaseya",
-    "type": "Training",
-    "domains": [
-      "Operations",
-      "Automation"
-    ],
-    "level": "Intermediate",
-    "issue_date": "2025-06-10",
-    "expiry_date": "2026-08-15",
-    "credential_id": "KAS-EXAMPLE-021",
-    "credential_url": "https://www.kaseya.com/",
-    "learning_path": "MSP Tooling",
-    "description": "Technische basiskennis van Kaseya tooling voor beheer, monitoring en operations.",
-    "tags": [
-      "RMM",
-      "MSP",
-      "Automation"
-    ]
-  },
-  {
-    "title": "Backend Developer Path",
-    "provider": "Boot.dev",
-    "type": "Course Path",
-    "domains": [
-      "Development",
-      "Automation"
-    ],
-    "level": "Intermediate",
-    "issue_date": "2026-01-20",
-    "expiry_date": "",
-    "credential_id": "BOOT-EXAMPLE-007",
-    "credential_url": "https://www.boot.dev/",
-    "learning_path": "Developer Growth",
-    "description": "Praktische programmeervaardigheden voor backend development en automatisering.",
-    "tags": [
-      "Python",
-      "APIs",
-      "Backend"
-    ]
-  },
-  {
-    "title": "People Management Foundations",
-    "provider": "LinkedIn",
-    "type": "Course",
-    "domains": [
-      "HR / People",
-      "Leadership"
-    ],
-    "level": "Beginner",
-    "issue_date": "2024-09-07",
-    "expiry_date": "",
-    "credential_id": "LI-EXAMPLE-030",
-    "credential_url": "https://www.linkedin.com/",
-    "learning_path": "Leadership",
-    "description": "Introductie in people management, coaching en ontwikkelgesprekken.",
-    "tags": [
-      "Leadership",
-      "People",
-      "HR"
-    ]
+    "credential_id": "95B255B13E00BCE7",
+    "credential_url": "https://learn.microsoft.com/en-us/users/harmvanholland-8024/credentials/95b255b13e00bce7",
+    "learning_path": "Modern Workplace",
+    "description": "Describe cloud concepts. Describe Microsoft 365 apps and services. Describe security, compliance, privacy, and trust in Microsoft 365. Describe Microsoft 365 pricing, licensing, and support.",
+    "tags": ["Microsoft 365", "Fundamentals", "Collaboration", "Endpoint Management", "Support"]
   }
 ]
+``
