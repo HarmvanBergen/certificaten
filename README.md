@@ -170,8 +170,8 @@ Voorbeelden:
 - CSV is de **beheerbron**
 - JSON is de **sitebron**
 - Wijzig certificaten bij voorkeur niet ad-hoc alleen in JSON
-
-Document github.dev as preferred bulk editor
+- Bulkbewerkingen en meerdere certificaatwijzigingen gebeuren eerst op de branch `cert-import-work`
+- Document github.dev as preferred bulk editor
 
 
 ## Volgende uitbreidingen
