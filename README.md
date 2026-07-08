@@ -153,6 +153,25 @@ Voorbeelden:
 - `Endpoint / M365` is het standaard domein voor moderne werkplek/Microsoft 365-certificaten
 - `Cloud` gebruik je alleen als cloudkennis echt een kernonderdeel is
 
+## Beheerproces certificaten
+
+### Bronbestanden
+- certificates-template.csv is het **werkbestand / invoerbestand**
+- data/certificates.json is het **publicatiebestand voor de website**
+
+### Werkwijze
+1. Voeg een nieuw certificaat eerst toe aan certificates-template.csv
+2. Controleer provider, type, domein, niveau, datumformaat en tags
+3. Zet het certificaat daarna over naar data/certificates.json
+4. Controleer na commit of de website correct rendert
+5. Gebruik consistente namen en tags volgens de invoerstandaard
+
+### Belangrijke afspraak
+- CSV is de **beheerbron**
+- JSON is de **sitebron**
+- Wijzig certificaten bij voorkeur niet ad-hoc alleen in JSON
+
+
 ## Volgende uitbreidingen
 
 - detailpagina per certificaat
