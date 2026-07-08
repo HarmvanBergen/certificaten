@@ -54,7 +54,7 @@ function renderKpis(items) {
   const statuses = items.map(getStatus);
   const domains = new Set(items.flatMap(i => i.domains || []));
   document.getElementById('kpi-total').textContent = items.length;
-  document.getElementById('kpi-active').textContent = statuses.filter(s => s === 'Actief').length;
+  document.getElementById('kpi-active').textContent = statuses.filter(s => s === 'Actief' || s === 'Geen vervaldatum').length;
   document.getElementById('kpi-expiring').textContent = statuses.filter(s => s === 'Verloopt binnenkort').length;
   document.getElementById('kpi-domains').textContent = domains.size;
 }
