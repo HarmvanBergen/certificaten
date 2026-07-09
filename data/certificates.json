@@ -54,7 +54,7 @@
   "learning_path": "Support Operations",
   "description": "Praktische certificering gericht op gebruik en beheer van Autotask PSA binnen support- en serviceprocessen.",
   "tags": ["Kaseya", "Autotask PSA", "Operations", "Support"]
-  }
+  },
   {
   "title": "Kaseya Certified Technician in RocketCyber",
   "provider": "Kaseya",
@@ -68,6 +68,21 @@
   "learning_path": "Security Operations",
   "description": "Praktische certificering gericht op RocketCyber en operationele securitybewaking binnen managed IT-omgevingen.",
   "tags": ["Kaseya", "RocketCyber", "Security", "Operations"]
+  },
+  {
+  "title": "Kaseya Certified Technician in Cybersecurity",
+  "provider": "Kaseya",
+  "type": "Certification",
+  "domains": ["Security", "Operations"],
+  "level": "Intermediate",
+  "issue_date": "2026-05-01",
+  "expiry_date": "2028-05-01",
+  "credential_id": "",
+  "credential_url": "",
+  "learning_path": "Security Operations",
+  "description": "Praktische certificering gericht op cybersecurity-taken en operationele beveiliging binnen managed IT-omgevingen.",
+  "tags": ["Kaseya", "Cybersecurity", "Security", "Operations"]
   }
+
 
 ]
