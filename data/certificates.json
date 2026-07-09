@@ -110,9 +110,75 @@
   "learning_path": "AI Foundations",
   "description": "Introductie tot generatieve AI, basisbegrippen en praktische toepassingsrichtingen.",
   "tags": ["LinkedIn", "Generative AI", "AI", "Foundations"]
-  }
-
-
-
-
+  },
+  {
+  "title": "Communication Foundations",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Communication", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "4bde6d18e335738e35a9ba5f1c86f93f868b08eb5ad3875dd703f2d6162d3f5a",
+  "credential_url": "https://www.linkedin.com/learning/certificates/4bde6d18e335738e35a9ba5f1c86f93f868b08eb5ad3875dd703f2d6162d3f5a",
+  "learning_path": "Communication Foundations",
+  "description": "Introductie tot basisprincipes van communicatie en effectieve overdracht van informatie.",
+  "tags": ["LinkedIn", "Communication", "Foundations"]
+  },
+  {
+  "title": "Effective Listening",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Communication", "Listening"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "c158c12954dd2f5eb7538f236c2a7ce7b373bf71301c50a77e841d795a3cdf7f",
+  "credential_url": "https://www.linkedin.com/learning/certificates/c158c12954dd2f5eb7538f236c2a7ce7b373bf71301c50a77e841d795a3cdf7f",
+  "learning_path": "Effective Listening",
+  "description": "Introductie tot actief luisteren en beter begrijpen van gesprekken in een professionele context.",
+  "tags": ["LinkedIn", "Communication", "Listening"]
+  },
+  {
+  "title": "Communication Foundations (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Communication", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "50ddd4f71638b83794bdef8fd40e382fa900742fe081b4b81c78e31fd47365ed",
+  "credential_url": "https://www.linkedin.com/learning/certificates/50ddd4f71638b83794bdef8fd40e382fa900742fe081b4b81c78e31fd47365ed?trk=share_certificate",
+  "learning_path": "Communication Foundations",
+  "description": "Communicatiebasis in een NASBA-variant voor professionele ontwikkeling en gestructureerde overdracht van informatie.",
+  "tags": ["LinkedIn", "Communication", "Foundations", "NASBA"]
+  },
+  {
+  "title": "Communication Foundations (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Communication", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "ce352c151711478e2dd24885c4cdf46786466761e147c5893ddd72519602ff34",
+  "credential_url": "https://www.linkedin.com/learning/certificates/ce352c151711478e2dd24885c4cdf46786466761e147c5893ddd72519602ff34?trk=share_certificate",
+  "learning_path": "Communication Foundations",
+  "description": "Communicatiebasis in een PMI-variant met focus op duidelijke afstemming en overdracht binnen professionele context.",
+  "tags": ["LinkedIn", "Communication", "Foundations", "PMI"]
+  },
+  {
+  "title": "Effective Listening (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Communication", "Listening"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "8433f54beb5f0a4add20534b05c98e206c218e79e8aa6e4345ce41bc03aa39df",
+  "credential_url": "https://www.linkedin.com/learning/certificates/8433f54beb5f0a4add20534b05c98e206c218e79e8aa6e4345ce41bc03aa39df?trk=share_certificate",
+  "learning_path": "Effective Listening",
+  "description": "Actief luisteren in een NASBA-variant, gericht op beter begrip, communicatie en professionele interactie.",
+  "tags": ["LinkedIn", "Communication", "Listening", "NASBA"]
+}
 ]
