@@ -1,4 +1,5 @@
 [
+  ### Microsoft
   {
     "title": "Microsoft 365 Certified: Fundamentals (MS-900)",
     "provider": "Microsoft",
@@ -13,6 +14,7 @@
     "description": "Describe cloud concepts. Describe Microsoft 365 apps and services. Describe security, compliance, privacy, and trust in Microsoft 365. Describe Microsoft 365 pricing, licensing, and support.",
     "tags": ["Microsoft 365", "Fundamentals", "Collaboration", "Endpoint Management", "Support"]
   },
+  ### LinkedIn
   {
   "title": "Customer Service: Managing Customer Expectations",
   "provider": "LinkedIn",
@@ -27,6 +29,7 @@
   "description": "Richt zich op het managen van klantverwachtingen via duidelijke communicatie en servicegerichte afstemming.",
   "tags": ["Customer Service", "Communication", "Expectations Management", "Service Delivery"]
   },
+  ### Boot.dev
   {
   "title": "Boot.dev's Learn to Code in Python Course",
   "provider": "Boot.dev",
@@ -40,7 +43,20 @@
   "learning_path": "Developer Growth",
   "description": "Praktische basis in Python en programmeerconcepten via het Boot.dev leertraject.",
   "tags": ["Boot.dev", "Python", "Development", "Automation"]
+  },
+  ### Kaseya
+  {
+  "title": "Kaseya Certified Technician in Autotask PSA",
+  "provider": "Kaseya",
+  "type": "Certification",
+  "domains": ["Operations", "Customer Service"],
+  "level": "Intermediate",
+  "issue_date": "2026-04-01",
+  "expiry_date": "2028-04-01",
+  "credential_id": "",
+  "credential_url": "",
+  "learning_path": "Support Operations",
+  "description": "Praktische certificering gericht op gebruik en beheer van Autotask PSA binnen support- en serviceprocessen.",
+  "tags": ["Kaseya", "Autotask PSA", "Operations", "Support"]
   }
-
-
 ]
