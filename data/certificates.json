@@ -12,5 +12,20 @@
     "learning_path": "Modern Workplace",
     "description": "Describe cloud concepts. Describe Microsoft 365 apps and services. Describe security, compliance, privacy, and trust in Microsoft 365. Describe Microsoft 365 pricing, licensing, and support.",
     "tags": ["Microsoft 365", "Fundamentals", "Collaboration", "Endpoint Management", "Support"]
+  },
+  {
+  "title": "Customer Service: Managing Customer Expectations",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Customer Service", "Communication"],
+  "level": "Beginner",
+  "issue_date": "2026-04-01",
+  "expiry_date": "",
+  "credential_id": "2bd94467c064eae7864d86bcdbbdc93456249e318d9fb62d1db1aa59b316f69e",
+  "credential_url": "https://www.linkedin.com/learning/certificates/2bd94467c064eae7864d86bcdbbdc93456249e318d9fb62d1db1aa59b316f69e",
+  "learning_path": "Customer Service",
+  "description": "Richt zich op het managen van klantverwachtingen via duidelijke communicatie en servicegerichte afstemming.",
+  "tags": ["Customer Service", "Communication", "Expectations Management", "Service Delivery"]
   }
+
 ]
