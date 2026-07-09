@@ -83,6 +83,21 @@
   "description": "Praktische certificering gericht op cybersecurity-taken en operationele beveiliging binnen managed IT-omgevingen.",
   "tags": ["Kaseya", "Cybersecurity", "Security", "Operations"]
   }
+  {
+  "title": "Cybersecurity Foundations",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Security", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "fae170c1f17a50a0d64de777c44776ffdc2bd6fec61a5612e1a7b50a5fa2da9a",
+  "credential_url": "https://www.linkedin.com/learning/certificates/fae170c1f17a50a0d64de777c44776ffdc2bd6fec61a5612e1a7b50a5fa2da9a?trk=share_certificate",
+  "learning_path": "Security Foundations",
+  "description": "Introductie tot basisbegrippen, dreigingen en kernconcepten binnen cybersecurity.",
+  "tags": ["LinkedIn", "Cybersecurity", "Security", "Foundations"]
+  }
+
 
 
 ]
