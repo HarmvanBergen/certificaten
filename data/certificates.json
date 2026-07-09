@@ -27,5 +27,20 @@
   "description": "Richt zich op het managen van klantverwachtingen via duidelijke communicatie en servicegerichte afstemming.",
   "tags": ["Customer Service", "Communication", "Expectations Management", "Service Delivery"]
   }
+  {
+  "title": "Boot.dev's Learn to Code in Python Course",
+  "provider": "Boot.dev",
+  "type": "Course",
+  "domains": ["Development", "Automation"],
+  "level": "Beginner",
+  "issue_date": "2026-04-01",
+  "expiry_date": "",
+  "credential_id": "fb22a163-4766-437d-9bd1-f6111cea5c28",
+  "credential_url": "https://www.boot.dev/certificates/fb22a163-4766-437d-9bd1-f6111cea5c28",
+  "learning_path": "Developer Growth",
+  "description": "Praktische basis in Python en programmeerconcepten via het Boot.dev leertraject.",
+  "tags": ["Boot.dev", "Python", "Development", "Automation"]
+  }
+
 
 ]
