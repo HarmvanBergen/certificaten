@@ -96,7 +96,22 @@
   "learning_path": "Security Foundations",
   "description": "Introductie tot basisbegrippen, dreigingen en kernconcepten binnen cybersecurity.",
   "tags": ["LinkedIn", "Cybersecurity", "Security", "Foundations"]
+  },
+  {
+  "title": "What Is Generative AI?",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "52bb111bbe0f054f2e6b77da08a2a419399edb91f727c90610246c9d3cf92b42",
+  "credential_url": "https://www.linkedin.com/learning/certificates/52bb111bbe0f054f2e6b77da08a2a419399edb91f727c90610246c9d3cf92b42?trk=share_certificate",
+  "learning_path": "AI Foundations",
+  "description": "Introductie tot generatieve AI, basisbegrippen en praktische toepassingsrichtingen.",
+  "tags": ["LinkedIn", "Generative AI", "AI", "Foundations"]
   }
+
 
 
 
