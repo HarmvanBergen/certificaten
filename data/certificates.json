@@ -390,6 +390,34 @@
   "learning_path": "M365 Copilot Collaboration",
   "description": "PMI-variant van samenwerking met Copilot in Teams, gericht op AI-ondersteunde afstemming en werkprocessen.",
   "tags": ["LinkedIn", "Microsoft Copilot", "Teams", "Collaboration", "PMI"]
+  },
+  {
+  "title": "Copilot in Outlook: Maximize Your Workday Efficiency",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Productivity"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "cfbd8af35af9292e5fd1bb58e9ee5e25ca02862d42ff2653321cbf138e54b8f3",
+  "credential_url": "https://www.linkedin.com/learning/certificates/cfbd8af35af9292e5fd1bb58e9ee5e25ca02862d42ff2653321cbf138e54b8f3",
+  "learning_path": "M365 Copilot Productivity",
+  "description": "Introductie tot slimmer werken met Copilot in Outlook voor e-mail, planning en dagelijkse efficiëntie.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "Outlook", "Productivity"]
+  },
+  {
+  "title": "Copilot in Word: Create and Refine Documents with AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Productivity"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "02562b5d4cecac0ccd26338ccb0b20f3abede5f8bf12d71748f96bde1fa5136d",
+  "credential_url": "https://www.linkedin.com/learning/certificates/02562b5d4cecac0ccd26338ccb0b20f3abede5f8bf12d71748f96bde1fa5136d",
+  "learning_path": "M365 Copilot Productivity",
+  "description": "Introductie tot het maken en verfijnen van documenten met Copilot in Word en AI-ondersteunde schrijfhulp.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "Word", "Productivity"]
   }
 
 ]
