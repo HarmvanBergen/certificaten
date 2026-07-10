@@ -236,5 +236,34 @@
   "learning_path": "AI Leadership",
   "description": "Behandelt hoe organisatieleiders AI strategisch kunnen inzetten voor richting, adoptie en impact.",
   "tags": ["Microsoft", "AI", "Leadership", "Strategy"]
+  },
+  {
+  "title": "Microsoft Security Essentials Professional Certificate by Microsoft and LinkedIn",
+  "provider": "Microsoft",
+  "type": "Professional Certificate",
+  "domains": ["Security", "Fundamentals"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "5d0c2f529404abf11f26c84629121c1dab1cbce59aa28e63f3ff7abbef14e460",
+  "credential_url": "https://www.linkedin.com/learning/certificates/5d0c2f529404abf11f26c84629121c1dab1cbce59aa28e63f3ff7abbef14e460",
+  "learning_path": "Security Foundations",
+  "description": "Professioneel certificaat gericht op Microsoft security-basiskennis, compliance en identity-gerelateerde kernconcepten.",
+  "tags": ["Microsoft", "Security", "Fundamentals", "Professional Certificate"]
+  },
+  {
+  "title": "Career Essentials in Cybersecurity by Microsoft and LinkedIn",
+  "provider": "Microsoft",
+  "type": "Professional Certificate",
+  "domains": ["Security", "Career Development"],
+  "level": "Intermediate",
+  "issue_date": "2025-12-01",
+  "expiry_date": "",
+  "credential_id": "a3bb26d338753c63945fc0ec09cfef47dab3d715d36b4832aa87dc85a1838f01",
+  "credential_url": "https://www.linkedin.com/learning/certificates/a3bb26d338753c63945fc0ec09cfef47dab3d715d36b4832aa87dc85a1838f01",
+  "learning_path": "Cybersecurity Career Growth",
+  "description": "Professioneel certificaat gericht op cybersecurity-basiskennis en loopbaanontwikkeling in moderne IT-omgevingen.",
+  "tags": ["Microsoft", "Cybersecurity", "Career Development", "Professional Certificate"]
   }
+
 ]
