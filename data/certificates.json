@@ -180,5 +180,61 @@
   "learning_path": "Effective Listening",
   "description": "Actief luisteren in een NASBA-variant, gericht op beter begrip, communicatie en professionele interactie.",
   "tags": ["LinkedIn", "Communication", "Listening", "NASBA"]
-}
+  },
+  {
+  "title": "Microsoft Copilot for Productivity by Microsoft and LinkedIn",
+  "provider": "Microsoft",
+  "type": "Course",
+  "domains": ["AI", "Productivity"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "eadae347d763beb4c56f0638aaffe50ffa60f962e73142cff61a702d29688737",
+  "credential_url": "https://www.linkedin.com/learning/certificates/eadae347d763beb4c56f0638aaffe50ffa60f962e73142cff61a702d29688737",
+  "learning_path": "AI Productivity",
+  "description": "Introductie tot productiever werken met Microsoft Copilot in een moderne werkcontext.",
+  "tags": ["Microsoft", "Copilot", "AI", "Productivity"]
+  },
+  {
+  "title": "Human Skills in the Age of AI by Microsoft and LinkedIn",
+  "provider": "Microsoft",
+  "type": "Course",
+  "domains": ["AI", "Human Skills"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "9c1679bf85ffe722f97347555cbb4d7662ab8f8cb014f754941938940ab9ea2f",
+  "credential_url": "https://www.linkedin.com/learning/certificates/9c1679bf85ffe722f97347555cbb4d7662ab8f8cb014f754941938940ab9ea2f",
+  "learning_path": "AI Leadership",
+  "description": "Versterkt mensgerichte vaardigheden en professionele effectiviteit in een AI-gedreven werkcontext.",
+  "tags": ["Microsoft", "AI", "Human Skills", "Leadership"]
+  },
+  {
+  "title": "AI for Managers by Microsoft and LinkedIn",
+  "provider": "Microsoft",
+  "type": "Course",
+  "domains": ["AI", "Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "2cc8fd58e0fc46a099340ffa4077153fc2920430f1b5874ee07293e634ea18bb",
+  "credential_url": "https://www.linkedin.com/learning/certificates/2cc8fd58e0fc46a099340ffa4077153fc2920430f1b5874ee07293e634ea18bb",
+  "learning_path": "AI Leadership",
+  "description": "Introductie tot het toepassen van AI in management- en besluitvormingsprocessen.",
+  "tags": ["Microsoft", "AI", "Managers", "Leadership"]
+  },
+  {
+  "title": "AI for Organizational Leaders by Microsoft and LinkedIn",
+  "provider": "Microsoft",
+  "type": "Course",
+  "domains": ["AI", "Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "570ce5001c69bd537a0a07dba21023d5cf19c4033dd86de382d28917bb54b721",
+  "credential_url": "https://www.linkedin.com/learning/certificates/570ce5001c69bd537a0a07dba21023d5cf19c4033dd86de382d28917bb54b721",
+  "learning_path": "AI Leadership",
+  "description": "Behandelt hoe organisatieleiders AI strategisch kunnen inzetten voor richting, adoptie en impact.",
+  "tags": ["Microsoft", "AI", "Leadership", "Strategy"]
+  }
 ]
