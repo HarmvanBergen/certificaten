@@ -264,6 +264,62 @@
   "learning_path": "Cybersecurity Career Growth",
   "description": "Professioneel certificaat gericht op cybersecurity-basiskennis en loopbaanontwikkeling in moderne IT-omgevingen.",
   "tags": ["Microsoft", "Cybersecurity", "Career Development", "Professional Certificate"]
+  },
+  {
+  "title": "Microsoft Applied Skills: Create agents in Microsoft Copilot Studio",
+  "provider": "Microsoft",
+  "type": "Applied Skill",
+  "domains": ["AI", "Automation"],
+  "level": "Intermediate",
+  "issue_date": "2026-02-01",
+  "expiry_date": "",
+  "credential_id": "BB2911F9AA3CBC43",
+  "credential_url": "https://learn.microsoft.com/api/credentials/share/en-us/HarmvanHolland-8024/BB2911F9AA3CBC43?sharingId",
+  "learning_path": "Copilot Studio Skills",
+  "description": "Praktische applied skill gericht op het bouwen van agents in Microsoft Copilot Studio.",
+  "tags": ["Microsoft", "Copilot Studio", "AI", "Automation"]
+  },
+  {
+  "title": "Microsoft Applied Skills: Streamline business workflows with AI chat",
+  "provider": "Microsoft",
+  "type": "Applied Skill",
+  "domains": ["AI", "Workflow Automation"],
+  "level": "Intermediate",
+  "issue_date": "2026-02-01",
+  "expiry_date": "",
+  "credential_id": "9787BCF0DD1877BF",
+  "credential_url": "https://learn.microsoft.com/api/credentials/share/en-us/HarmvanHolland-8024/9787BCF0DD1877BF?sharingId",
+  "learning_path": "AI Workflow Skills",
+  "description": "Praktische applied skill gericht op het stroomlijnen van bedrijfsworkflows met AI-chatoplossingen.",
+  "tags": ["Microsoft", "AI Chat", "Workflow Automation", "Applied Skills"]
+  },
+  {
+  "title": "Microsoft Applied Skills: Rapporten genereren met AI-onderzoeksagents",
+  "provider": "Microsoft",
+  "type": "Applied Skill",
+  "domains": ["AI", "Reporting"],
+  "level": "Intermediate",
+  "issue_date": "2026-02-01",
+  "expiry_date": "",
+  "credential_id": "76AA12C68DB78BDB",
+  "credential_url": "https://learn.microsoft.com/api/credentials/share/nl-nl/HarmvanHolland-8024/76AA12C68DB78BDB?sharingId",
+  "learning_path": "AI Reporting Skills",
+  "description": "Praktische applied skill gericht op het genereren van rapporten met AI-onderzoeksagents.",
+  "tags": ["Microsoft", "AI", "Reporting", "Applied Skills"]
+  },
+  {
+  "title": "Microsoft Applied Skills: Prepare security and compliance to support Microsoft 365 Copilot",
+  "provider": "Microsoft",
+  "type": "Applied Skill",
+  "domains": ["Security", "Compliance"],
+  "level": "Intermediate",
+  "issue_date": "2026-03-01",
+  "expiry_date": "",
+  "credential_id": "A50762ABE4529986",
+  "credential_url": "https://learn.microsoft.com/api/credentials/share/en-us/HarmvanHolland-8024/A50762ABE4529986?sharingId",
+  "learning_path": "Security Readiness",
+  "description": "Praktische applied skill gericht op security- en compliancevoorbereiding voor Microsoft 365 Copilot.",
+  "tags": ["Microsoft", "Security", "Compliance", "Copilot"]
   }
 
 ]
