@@ -320,6 +320,20 @@
   "learning_path": "Security Readiness",
   "description": "Praktische applied skill gericht op security- en compliancevoorbereiding voor Microsoft 365 Copilot.",
   "tags": ["Microsoft", "Security", "Compliance", "Copilot"]
+  },
+  {
+  "title": "Negotiation Professional Certificate by American Negotiation Institute",
+  "provider": "American Negotiation Institute",
+  "type": "Professional Certificate",
+  "domains": ["Negotiation", "Communication"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "9b053e9f420704f9dbe1d67b8d9ca92af53383b83eccf5ba6063249a10a561ef",
+  "credential_url": "https://www.linkedin.com/learning/certificates/9b053e9f420704f9dbe1d67b8d9ca92af53383b83eccf5ba6063249a10a561ef",
+  "learning_path": "Negotiation Skills",
+  "description": "Professioneel certificaat gericht op onderhandelingstechnieken, communicatie en beïnvloeding in professionele context.",
+  "tags": ["American Negotiation Institute", "Negotiation", "Communication", "Professional Certificate"]
   }
 
 ]
