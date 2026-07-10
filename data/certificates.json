@@ -334,6 +334,34 @@
   "learning_path": "Negotiation Skills",
   "description": "Professioneel certificaat gericht op onderhandelingstechnieken, communicatie en beïnvloeding in professionele context.",
   "tags": ["American Negotiation Institute", "Negotiation", "Communication", "Professional Certificate"]
+  },
+  {
+  "title": "Learning Microsoft 365 Copilot for Work",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Productivity"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "1887278bd418414af57fe2dc9a9c13b528d1106593c168fe8584a76b5963cca2",
+  "credential_url": "https://www.linkedin.com/learning/certificates/1887278bd418414af57fe2dc9a9c13b528d1106593c168fe8584a76b5963cca2",
+  "learning_path": "M365 Copilot",
+  "description": "Introductie tot werken met Microsoft 365 Copilot in een moderne werk- en supportcontext.",
+  "tags": ["LinkedIn", "Microsoft 365 Copilot", "AI", "Productivity"]
+  },
+  {
+  "title": "Microsoft Copilot: The Art of Prompt Writing",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Prompting"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "6a29c164e26bab15c9439b37e5bc934725d6071a0e66761d21a4f526e751512b",
+  "credential_url": "https://www.linkedin.com/learning/certificates/6a29c164e26bab15c9439b37e5bc934725d6071a0e66761d21a4f526e751512b",
+  "learning_path": "Copilot Prompting",
+  "description": "Introductie tot effectief prompten voor Microsoft Copilot en AI-ondersteunde werkprocessen.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "Prompting", "AI"]
   }
 
 ]
