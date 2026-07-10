@@ -362,6 +362,34 @@
   "learning_path": "Copilot Prompting",
   "description": "Introductie tot effectief prompten voor Microsoft Copilot en AI-ondersteunde werkprocessen.",
   "tags": ["LinkedIn", "Microsoft Copilot", "Prompting", "AI"]
+  },
+  {
+  "title": "Copilot in Teams: AI-Powered Collaboration",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Collaboration"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "7d65c17f86f24ceaf58c6ec8f1ec494210ad0699234fd101154222aa2036f94a",
+  "credential_url": "https://www.linkedin.com/learning/certificates/7d65c17f86f24ceaf58c6ec8f1ec494210ad0699234fd101154222aa2036f94a?trk=share_certificate",
+  "learning_path": "M365 Copilot Collaboration",
+  "description": "Introductie tot samenwerking met Copilot in Teams en AI-ondersteunde communicatie in werkcontext.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "Teams", "Collaboration"]
+  },
+  {
+  "title": "Copilot in Teams: AI-Powered Collaboration (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Collaboration"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "18a571d4bc27cde8f18e588208b7cc6d06459d2f9b3c4b46169373cab7b86e6a",
+  "credential_url": "https://www.linkedin.com/learning/certificates/18a571d4bc27cde8f18e588208b7cc6d06459d2f9b3c4b46169373cab7b86e6a?trk=share_certificate",
+  "learning_path": "M365 Copilot Collaboration",
+  "description": "PMI-variant van samenwerking met Copilot in Teams, gericht op AI-ondersteunde afstemming en werkprocessen.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "Teams", "Collaboration", "PMI"]
   }
 
 ]
