@@ -418,6 +418,35 @@
   "learning_path": "M365 Copilot Productivity",
   "description": "Introductie tot het maken en verfijnen van documenten met Copilot in Word en AI-ondersteunde schrijfhulp.",
   "tags": ["LinkedIn", "Microsoft Copilot", "Word", "Productivity"]
+  },
+  {
+  "title": "Excel with Copilot: AI-Driven Data Analysis",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Data Analysis"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "6af2b371ca1fa99836f99ac10f72cdda21ecb48f5c6c5dddd7ed19d4202cfb96",
+  "credential_url": "https://www.linkedin.com/learning/certificates/6af2b371ca1fa99836f99ac10f72cdda21ecb48f5c6c5dddd7ed19d4202cfb96",
+  "learning_path": "M365 Copilot Data Analysis",
+  "description": "Introductie tot data-analyse met Copilot in Excel en AI-ondersteunde inzichten in spreadsheets.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "Excel", "Data Analysis"]
+  },
+  {
+  "title": "Excel with Copilot: AI-Driven Data Analysis (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Data Analysis"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "c95c86ef4cb4912c2b512a2291dda852b6e648bb5091262fc13e5eef2a32327f",
+  "credential_url": "https://www.linkedin.com/learning/certificates/c95c86ef4cb4912c2b512a2291dda852b6e648bb5091262fc13e5eef2a32327f?trk=share_certificate",
+  "learning_path": "M365 Copilot Data Analysis",
+  "description": "PMI-variant van data-analyse met Copilot in Excel, gericht op AI-ondersteunde analyse en besluitvorming.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "Excel", "Data Analysis", "PMI"]
   }
+
 
 ]
