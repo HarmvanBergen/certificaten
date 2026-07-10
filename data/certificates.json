@@ -446,6 +446,20 @@
   "learning_path": "M365 Copilot Data Analysis",
   "description": "PMI-variant van data-analyse met Copilot in Excel, gericht op AI-ondersteunde analyse en besluitvorming.",
   "tags": ["LinkedIn", "Microsoft Copilot", "Excel", "Data Analysis", "PMI"]
+  },
+  {
+  "title": "Copilot in PowerPoint: From Prompt to Presentation",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Presentations"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "b4d436cf91d59f3c8655a4118b23d7523510b19e89a1972530e32b78fcb8fcbe",
+  "credential_url": "https://www.linkedin.com/learning/certificates/b4d436cf91d59f3c8655a4118b23d7523510b19e89a1972530e32b78fcb8fcbe",
+  "learning_path": "M365 Copilot Presentations",
+  "description": "Introductie tot het maken en verfijnen van presentaties met Copilot in PowerPoint en AI-ondersteunde presentatie-opbouw.",
+  "tags": ["LinkedIn", "Microsoft Copilot", "PowerPoint", "Presentations"]
   }
 
 
