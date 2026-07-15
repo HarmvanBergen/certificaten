@@ -1412,6 +1412,62 @@
   "learning_path": "Strategic Negotiation",
   "description": "NASBA-variant van strategisch onderhandelen, belangenafweging, voorbereiding en professionele besluitvorming.",
   "tags": ["LinkedIn", "Negotiation", "Strategy", "Communication", "NASBA"]
+  },
+  {
+  "title": "When Negotiation's about More than Money: How to Negotiate (Almost) Anything",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Communication"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "b5977d82b286ec8dea907bb91cd9686dfd0b9d94d5465a3895a84b97bc432a44",
+  "credential_url": "https://www.linkedin.com/learning/certificates/b5977d82b286ec8dea907bb91cd9686dfd0b9d94d5465a3895a84b97bc432a44?trk=share_certificate",
+  "learning_path": "Negotiation Skills",
+  "description": "Verdieping in onderhandelen wanneer meer speelt dan alleen prijs, met focus op belangen, communicatie en praktische afstemming.",
+  "tags": ["LinkedIn", "Negotiation", "Communication", "Conflict Resolution"]
+  },
+  {
+  "title": "How to Prepare for Your Negotiations",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Preparation"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "7916e5e75c275c40a0d076a2ff63bcb7627503c0728b464f1e5fb7b07cfb7f80",
+  "credential_url": "https://www.linkedin.com/learning/certificates/7916e5e75c275c40a0d076a2ff63bcb7627503c0728b464f1e5fb7b07cfb7f80?trk=share_certificate",
+  "learning_path": "Negotiation Preparation",
+  "description": "Praktische training over het voorbereiden van onderhandelingen, doelen bepalen en informatie verzamelen voor betere uitkomsten.",
+  "tags": ["LinkedIn", "Negotiation", "Preparation", "Communication"]
+  },
+  {
+  "title": "Negotiating with Agility",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Agility"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "6dc4ee52ef67c03284b90f875010ac29086138f83545d60efb0761ea44fc41d8",
+  "credential_url": "https://www.linkedin.com/learning/certificates/6dc4ee52ef67c03284b90f875010ac29086138f83545d60efb0761ea44fc41d8?trk=share_certificate",
+  "learning_path": "Agile Negotiation",
+  "description": "Training over flexibel en wendbaar onderhandelen in veranderende situaties en professionele gesprekken.",
+  "tags": ["LinkedIn", "Negotiation", "Agility", "Communication"]
+  },
+  {
+  "title": "How to Be Both Assertive and Likable",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Communication", "Assertiveness"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "b8ca4c27f5934327bacebfe6d28a0ac5f199d002cf6109755d8ca48eaa1c65b9",
+  "credential_url": "https://www.linkedin.com/learning/certificates/b8ca4c27f5934327bacebfe6d28a0ac5f199d002cf6109755d8ca48eaa1c65b9?trk=share_certificate",
+  "learning_path": "Assertive Communication",
+  "description": "Training over assertieve en professionele communicatie met behoud van samenwerking en vertrouwen.",
+  "tags": ["LinkedIn", "Communication", "Assertiveness", "Negotiation"]
   }
 
 
