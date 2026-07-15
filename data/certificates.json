@@ -1076,6 +1076,48 @@
   "learning_path": "Responsible AI Leadership",
   "description": "SHRM-variant over verantwoord AI-leiderschap in organisaties, met aandacht voor governance, risico's en HR-/organisatieontwikkeling.",
   "tags": ["LinkedIn", "AI", "Responsible AI", "Leadership", "Governance", "SHRM"]
+  },
+  {
+  "title": "Developing Your Emotional Intelligence",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Emotional Intelligence", "Human Skills"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "939b0e3c5fb1aa78c8d832fc44bb29ec3f3456a143310543b971e3d985e1103c",
+  "credential_url": "https://www.linkedin.com/learning/certificates/939b0e3c5fb1aa78c8d832fc44bb29ec3f3456a143310543b971e3d985e1103c",
+  "learning_path": "Human Skills",
+  "description": "Introductie tot emotionele intelligentie, zelfbewustzijn en professionele samenwerking in werkcontext.",
+  "tags": ["LinkedIn", "Emotional Intelligence", "Human Skills", "Professional Development"]
+  },
+  {
+  "title": "Developing Your Emotional Intelligence (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Emotional Intelligence", "Human Skills"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "f6c4619a077197628905e8eba8856e2c880b67ea8e06eac2ce88e3cf6741b64b",
+  "credential_url": "https://www.linkedin.com/learning/certificates/f6c4619a077197628905e8eba8856e2c880b67ea8e06eac2ce88e3cf6741b64b?trk=share_certificate",
+  "learning_path": "Human Skills",
+  "description": "PMI-variant over emotionele intelligentie, zelfbewustzijn en professionele samenwerking in werkcontext.",
+  "tags": ["LinkedIn", "Emotional Intelligence", "Human Skills", "Professional Development", "PMI"]
+  },
+  {
+  "title": "What Is Generative AI? (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "a7103b0bf6cd2131f2b1063c5be2cf8291e96a8caabf4dd54b2e86f199007044",
+  "credential_url": "https://www.linkedin.com/learning/certificates/a7103b0bf6cd2131f2b1063c5be2cf8291e96a8caabf4dd54b2e86f199007044?trk=share_certificate",
+  "learning_path": "AI Foundations",
+  "description": "NASBA-variant van de introductie tot generatieve AI, basisbegrippen en praktische toepassingsrichtingen.",
+  "tags": ["LinkedIn", "Generative AI", "AI", "Foundations", "NASBA"]
   }
 
 
