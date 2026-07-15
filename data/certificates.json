@@ -614,6 +614,48 @@
   "learning_path": "AI Critical Thinking",
   "description": "PMI-variant over kritisch denken met generatieve AI, gericht op analyse, besluitvorming en professionele effectiviteit.",
   "tags": ["LinkedIn", "AI", "Generative AI", "Critical Thinking", "Human Skills", "PMI"]
+  },
+  {
+  "title": "Strengthen Your Decision-Making with Generative AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Decision Making"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "a8aba2eea8df7f7240054a5e78257cca5c67c3708097e998ec702617bee978e1",
+  "credential_url": "https://www.linkedin.com/learning/certificates/a8aba2eea8df7f7240054a5e78257cca5c67c3708097e998ec702617bee978e1",
+  "learning_path": "AI Decision Making",
+  "description": "Introductie tot het versterken van besluitvorming met generatieve AI in professionele analyse- en werkprocessen.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Decision Making", "Human Skills"]
+  },
+  {
+  "title": "Strengthen Your Decision-Making with Generative AI (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Decision Making"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "af81756b42f65484a15fed77c8e2ca1b6e44e14952669c1b939c968183738042",
+  "credential_url": "https://www.linkedin.com/learning/certificates/af81756b42f65484a15fed77c8e2ca1b6e44e14952669c1b939c968183738042?trk=share_certificate",
+  "learning_path": "AI Decision Making",
+  "description": "PMI-variant over besluitvorming met generatieve AI, gericht op analyse, afwegingen en professionele effectiviteit.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Decision Making", "Human Skills", "PMI"]
+  },
+  {
+  "title": "Strengthen Your Decision-Making with Generative AI (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Decision Making"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "5743413a0e12541d0c22631f84c16d88c9e5117d44e5e8cb3d17c5a42e5b348a",
+  "credential_url": "https://www.linkedin.com/learning/certificates/5743413a0e12541d0c22631f84c16d88c9e5117d44e5e8cb3d17c5a42e5b348a?trk=share_certificate",
+  "learning_path": "AI Decision Making",
+  "description": "NASBA-variant over besluitvorming met generatieve AI, gericht op analyse, afwegingen en professionele effectiviteit.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Decision Making", "Human Skills", "NASBA"]
   }
 
 
