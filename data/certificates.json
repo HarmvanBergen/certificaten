@@ -544,6 +544,34 @@
   "learning_path": "AI Human Skills",
   "description": "PMI-variant over sociale intelligentie, samenwerking en professionele effectiviteit in het AI-tijdperk.",
   "tags": ["LinkedIn", "AI", "Social Intelligence", "Human Skills", "PMI"]
+  },
+  {
+  "title": "Amplify Your Communication Skills with Generative AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Communication"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "4022e6e106e1fd3d9b051c0f7ceea2607ba716bd3851a1b75e55bd5245e1fb1f",
+  "credential_url": "https://www.linkedin.com/learning/certificates/4022e6e106e1fd3d9b051c0f7ceea2607ba716bd3851a1b75e55bd5245e1fb1f",
+  "learning_path": "AI Communication Skills",
+  "description": "Introductie tot het versterken van communicatievaardigheden met generatieve AI in professionele werkcontext.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Communication", "Human Skills"]
+  },
+  {
+  "title": "Amplify Your Communication Skills with Generative AI (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Communication"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "26995d04b94454e9db932e2eaadddb021aadc3a0f41a631f2088b0f4596c7626",
+  "credential_url": "https://www.linkedin.com/learning/certificates/26995d04b94454e9db932e2eaadddb021aadc3a0f41a631f2088b0f4596c7626?trk=share_certificate",
+  "learning_path": "AI Communication Skills",
+  "description": "NASBA-variant over het versterken van communicatievaardigheden met generatieve AI in professionele werkcontext.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Communication", "Human Skills", "NASBA"]
   }
 
 
