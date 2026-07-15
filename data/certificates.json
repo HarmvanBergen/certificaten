@@ -726,6 +726,48 @@
   "learning_path": "AI Career Development",
   "description": "NASBA-variant over loopbaangesprekken en begeleiding in een AI-gedreven werkcontext.",
   "tags": ["LinkedIn", "AI", "Career Development", "Leadership", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "Enhance Your Coaching Impact with Generative AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Coaching"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "b537c088ee9f0cb23b6abe6062859f3f313ef6cbff7f12b8e634af2401cd3378",
+  "credential_url": "https://www.linkedin.com/learning/certificates/b537c088ee9f0cb23b6abe6062859f3f313ef6cbff7f12b8e634af2401cd3378",
+  "learning_path": "AI Coaching Impact",
+  "description": "Introductie tot het versterken van coaching en begeleiding met generatieve AI in professionele werkcontext.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Coaching", "Human Skills"]
+  },
+  {
+  "title": "Enhance Your Coaching Impact with Generative AI (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Coaching"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "3339d4412dfcf37130aa15520141af282e123bf33ffa2771c9af3fc8b0097bc5",
+  "credential_url": "https://www.linkedin.com/learning/certificates/3339d4412dfcf37130aa15520141af282e123bf33ffa2771c9af3fc8b0097bc5?trk=share_certificate",
+  "learning_path": "AI Coaching Impact",
+  "description": "NASBA-variant over het versterken van coaching en begeleiding met generatieve AI in professionele werkcontext.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Coaching", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "Enhance Your Coaching Impact with Generative AI (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Coaching"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "da2b563ccc516b928857a89406338c4ce420c12c62d01f02e322e5fd5174b577",
+  "credential_url": "https://www.linkedin.com/learning/certificates/da2b563ccc516b928857a89406338c4ce420c12c62d01f02e322e5fd5174b577?trk=share_certificate",
+  "learning_path": "AI Coaching Impact",
+  "description": "PMI-variant over coaching-impact met generatieve AI, gericht op begeleiding, communicatie en professionele effectiviteit.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Coaching", "Human Skills", "PMI"]
   }
 
 
