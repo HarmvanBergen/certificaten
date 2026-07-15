@@ -796,6 +796,48 @@
   "learning_path": "AI Team Collaboration",
   "description": "NASBA-variant over het bouwen van een samenwerkende teamcultuur met AI in moderne werkcontexten.",
   "tags": ["LinkedIn", "AI", "Team Collaboration", "Culture", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "Responsible AI for Managers",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Responsible AI"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "b2d7714f9d64e44806b04cb3679c9518debb4db3ea046cc5b3ca79c0b0b22d9a",
+  "credential_url": "https://www.linkedin.com/learning/certificates/b2d7714f9d64e44806b04cb3679c9518debb4db3ea046cc5b3ca79c0b0b22d9a",
+  "learning_path": "Responsible AI Leadership",
+  "description": "Introductie tot verantwoord gebruik van AI voor managers, met aandacht voor governance, risico's en ethische toepassing.",
+  "tags": ["LinkedIn", "AI", "Responsible AI", "Leadership", "Governance"]
+  },
+  {
+  "title": "Generative AI for Business Leaders",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Business Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "0eb429d03ac17a68d97f450440a96ab5d2ecab0a1837b96f0077886a4957d740",
+  "credential_url": "https://www.linkedin.com/learning/certificates/0eb429d03ac17a68d97f450440a96ab5d2ecab0a1837b96f0077886a4957d740",
+  "learning_path": "AI Business Leadership",
+  "description": "Introductie tot generatieve AI voor business leaders, gericht op strategie, impact en verantwoord gebruik in organisaties.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Business Leadership", "Strategy"]
+  },
+  {
+  "title": "Generative AI for Business Leaders (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Business Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "ea8a6107c08a252784c4a760e8eedf65162ada61c5be78b529342e745421fad5",
+  "credential_url": "https://www.linkedin.com/learning/certificates/ea8a6107c08a252784c4a760e8eedf65162ada61c5be78b529342e745421fad5?trk=share_certificate",
+  "learning_path": "AI Business Leadership",
+  "description": "NASBA-variant over generatieve AI voor business leaders, gericht op strategie, impact en verantwoord gebruik in organisaties.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Business Leadership", "Strategy", "NASBA"]
   }
 
 
