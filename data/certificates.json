@@ -656,6 +656,20 @@
   "learning_path": "AI Decision Making",
   "description": "NASBA-variant over besluitvorming met generatieve AI, gericht op analyse, afwegingen en professionele effectiviteit.",
   "tags": ["LinkedIn", "AI", "Generative AI", "Decision Making", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "Integrating Generative AI into the Creative Process",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Creativity"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "4e7e8f43ad58410a467c69f3cf0f5f4e461be9713c069d69ef0b61d95fa263ce",
+  "credential_url": "https://www.linkedin.com/learning/certificates/4e7e8f43ad58410a467c69f3cf0f5f4e461be9713c069d69ef0b61d95fa263ce",
+  "learning_path": "AI Creative Process",
+  "description": "Introductie tot het toepassen van generatieve AI binnen creatieve processen, ideevorming en professionele contentontwikkeling.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Creativity", "Creative Process"]
   }
 
 
