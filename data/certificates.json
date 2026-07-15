@@ -516,6 +516,34 @@
   "learning_path": "AI Human Skills",
   "description": "PMI-variant over adaptief denken en professionele wendbaarheid in het AI-tijdperk.",
   "tags": ["LinkedIn", "AI", "Adaptability", "Human Skills", "PMI"]
+  },
+  {
+  "title": "Leveraging the Power of Social Intelligence in the Age of AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Social Intelligence"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "df442869094a4d36a7cc6ae49b34c072e1203e896dbabad21bdddeb2898c5819",
+  "credential_url": "https://www.linkedin.com/learning/certificates/df442869094a4d36a7cc6ae49b34c072e1203e896dbabad21bdddeb2898c5819",
+  "learning_path": "AI Human Skills",
+  "description": "Introductie tot sociale intelligentie en effectieve samenwerking in een AI-gedreven werkcontext.",
+  "tags": ["LinkedIn", "AI", "Social Intelligence", "Human Skills"]
+  },
+  {
+  "title": "Leveraging the Power of Social Intelligence in the Age of AI (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Social Intelligence"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "a942b12f82b4b73c224e87be18f3cd58ed3758a4b29b4e2565864637ef174f71",
+  "credential_url": "https://www.linkedin.com/learning/certificates/a942b12f82b4b73c224e87be18f3cd58ed3758a4b29b4e2565864637ef174f71?trk=share_certificate",
+  "learning_path": "AI Human Skills",
+  "description": "PMI-variant over sociale intelligentie, samenwerking en professionele effectiviteit in het AI-tijdperk.",
+  "tags": ["LinkedIn", "AI", "Social Intelligence", "Human Skills", "PMI"]
   }
 
 
