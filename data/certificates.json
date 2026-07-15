@@ -838,6 +838,76 @@
   "learning_path": "AI Business Leadership",
   "description": "NASBA-variant over generatieve AI voor business leaders, gericht op strategie, impact en verantwoord gebruik in organisaties.",
   "tags": ["LinkedIn", "AI", "Generative AI", "Business Leadership", "Strategy", "NASBA"]
+  },
+  {
+  "title": "How to Keep Your Team on the Bleeding Edge of AI Innovation",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "31277ae685c6f3a3f60b86d6ab61a9ad972ad70eb6e93b38b8b8b05c33f96615",
+  "credential_url": "https://www.linkedin.com/learning/certificates/31277ae685c6f3a3f60b86d6ab61a9ad972ad70eb6e93b38b8b8b05c33f96615",
+  "learning_path": "AI Innovation Leadership",
+  "description": "Introductie tot het stimuleren van AI-innovatie binnen teams en het bijhouden van technologische ontwikkelingen.",
+  "tags": ["LinkedIn", "AI", "Innovation", "Leadership", "Team Development"]
+  },
+  {
+  "title": "How to Keep Your Team on the Bleeding Edge of AI Innovation (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "e350c4ef6a3b130c33a1ff9aef823675ca07cffee2cdf860342395ed8eaab4dd",
+  "credential_url": "https://www.linkedin.com/learning/certificates/e350c4ef6a3b130c33a1ff9aef823675ca07cffee2cdf860342395ed8eaab4dd?trk=share_certificate",
+  "learning_path": "AI Innovation Leadership",
+  "description": "NASBA-variant over het stimuleren van AI-innovatie binnen teams en het bijhouden van technologische ontwikkelingen.",
+  "tags": ["LinkedIn", "AI", "Innovation", "Leadership", "Team Development", "NASBA"]
+  },
+  {
+  "title": "AI Challenges and Opportunities for Leadership",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "fe13cebd3b73f85d1850093e112a8ac30e3a70ba95bcd8a90fad4da8af84fb31",
+  "credential_url": "https://www.linkedin.com/learning/certificates/fe13cebd3b73f85d1850093e112a8ac30e3a70ba95bcd8a90fad4da8af84fb31",
+  "learning_path": "AI Leadership",
+  "description": "Introductie tot kansen, uitdagingen en leiderschapskeuzes rond AI-adoptie in organisaties.",
+  "tags": ["LinkedIn", "AI", "Leadership", "Opportunities", "Challenges"]
+  },
+  {
+  "title": "AI Challenges and Opportunities for Leadership (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "3e616ebbb6ada62c3f49935e0e3383547ef8b0ba48da664ed57d24412ef7efb1",
+  "credential_url": "https://www.linkedin.com/learning/certificates/3e616ebbb6ada62c3f49935e0e3383547ef8b0ba48da664ed57d24412ef7efb1?trk=share_certificate",
+  "learning_path": "AI Leadership",
+  "description": "NASBA-variant over kansen, uitdagingen en leiderschapskeuzes rond AI-adoptie in organisaties.",
+  "tags": ["LinkedIn", "AI", "Leadership", "Opportunities", "Challenges", "NASBA"]
+  },
+  {
+  "title": "AI Challenges and Opportunities for Leadership (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Leadership"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "1d045c528a46d4410937cb1feea0d2ea197636e897457e7707f7cd044fa09eb6",
+  "credential_url": "https://www.linkedin.com/learning/certificates/1d045c528a46d4410937cb1feea0d2ea197636e897457e7707f7cd044fa09eb6?trk=share_certificate",
+  "learning_path": "AI Leadership",
+  "description": "PMI-variant over kansen, uitdagingen en leiderschapskeuzes rond AI-adoptie in organisaties.",
+  "tags": ["LinkedIn", "AI", "Leadership", "Opportunities", "Challenges", "PMI"]
   }
 
 
