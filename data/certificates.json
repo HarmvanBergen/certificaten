@@ -461,6 +461,35 @@
   "description": "Introductie tot het maken en verfijnen van presentaties met Copilot in PowerPoint en AI-ondersteunde presentatie-opbouw.",
   "tags": ["LinkedIn", "Microsoft Copilot", "PowerPoint", "Presentations"]
   }
+  {
+  "title": "Investing in Human Skills in the Age of AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Human Skills"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "11159ab9e5b18459d42883b9f06ff8fccc9e8b29e4c7d4d98a4040e254db0975",
+  "credential_url": "https://www.linkedin.com/learning/certificates/11159ab9e5b18459d42883b9f06ff8fccc9e8b29e4c7d4d98a4040e254db0975",
+  "learning_path": "AI Human Skills",
+  "description": "Introductie tot het belang van menselijke vaardigheden in een AI-gedreven werkcontext en professionele samenwerking.",
+  "tags": ["LinkedIn", "AI", "Human Skills", "Professional Development"]
+  },
+  {
+  "title": "Investing in Human Skills in the Age of AI (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Human Skills"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "d1f19fee6e5feba9d181e98615cc95fd837da1ffe6e0a60d1c2adb883d4b353d",
+  "credential_url": "https://www.linkedin.com/learning/certificates/d1f19fee6e5feba9d181e98615cc95fd837da1ffe6e0a60d1c2adb883d4b353d?trk=share_certificate",
+  "learning_path": "AI Human Skills",
+  "description": "PMI-variant van menselijke vaardigheden in het AI-tijdperk, gericht op samenwerking, communicatie en professionele effectiviteit.",
+  "tags": ["LinkedIn", "AI", "Human Skills", "PMI"]
+  }
+
 
 
 ]
