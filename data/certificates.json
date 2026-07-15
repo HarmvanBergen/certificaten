@@ -1342,6 +1342,76 @@
   "learning_path": "Microsoft Security Copilot",
   "description": "Introductie tot Microsoft Security Copilot en AI-ondersteunde securityanalyse, onderzoek en respons.",
   "tags": ["LinkedIn", "Microsoft Security Copilot", "Security", "AI", "Copilot"]
+  },
+  {
+  "title": "Negotiation Foundations",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "0c9c45c7e3b41e563fb1bac3d41af6458e713fc58423b49ead6c94907dc948b7",
+  "credential_url": "https://www.linkedin.com/learning/certificates/0c9c45c7e3b41e563fb1bac3d41af6458e713fc58423b49ead6c94907dc948b7?trk=share_certificate",
+  "learning_path": "Negotiation Foundations",
+  "description": "Introductie tot basisprincipes van onderhandelen, voorbereiding, communicatie en professionele afstemming.",
+  "tags": ["LinkedIn", "Negotiation", "Foundations", "Communication"]
+  },
+  {
+  "title": "Negotiation Foundations (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "81185e30a59024c9c9f4ec20a5d6e7534d2950e967ac6e9959825a86fb24a211",
+  "credential_url": "https://www.linkedin.com/learning/certificates/81185e30a59024c9c9f4ec20a5d6e7534d2950e967ac6e9959825a86fb24a211?trk=share_certificate",
+  "learning_path": "Negotiation Foundations",
+  "description": "NASBA-variant van onderhandelingsbasisprincipes, voorbereiding, communicatie en professionele afstemming.",
+  "tags": ["LinkedIn", "Negotiation", "Foundations", "Communication", "NASBA"]
+  },
+  {
+  "title": "Negotiation Foundations (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "8da1e8591d927dcbb54a9f6e8f0d1f653aef07baeb2d273d7b10415fa39c9fbf",
+  "credential_url": "https://www.linkedin.com/learning/certificates/8da1e8591d927dcbb54a9f6e8f0d1f653aef07baeb2d273d7b10415fa39c9fbf?trk=share_certificate",
+  "learning_path": "Negotiation Foundations",
+  "description": "PMI-variant van onderhandelingsbasisprincipes, voorbereiding, communicatie en professionele afstemming.",
+  "tags": ["LinkedIn", "Negotiation", "Foundations", "Communication", "PMI"]
+  },
+  {
+  "title": "Strategic Negotiation",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Strategy"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "cc02d2bbf1ed35110c2b0ec9fb51e5bf0611184c2893c1dd3aee7ac402f80eaf",
+  "credential_url": "https://www.linkedin.com/learning/certificates/cc02d2bbf1ed35110c2b0ec9fb51e5bf0611184c2893c1dd3aee7ac402f80eaf?trk=share_certificate",
+  "learning_path": "Strategic Negotiation",
+  "description": "Verdieping in strategisch onderhandelen, belangenafweging, voorbereiding en professionele besluitvorming.",
+  "tags": ["LinkedIn", "Negotiation", "Strategy", "Communication"]
+  },
+  {
+  "title": "Strategic Negotiation (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Negotiation", "Strategy"],
+  "level": "Intermediate",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "2810762f992f04c2630a1c12b17df56e13c416a20a775c2e2e5727cb38911fc0",
+  "credential_url": "https://www.linkedin.com/learning/certificates/cc02d2bbf1ed35110c2b0ec9fb51e5bf0611184c2893c1dd3aee7ac402f80eaf?trk=share_certificate",
+  "learning_path": "Strategic Negotiation",
+  "description": "NASBA-variant van strategisch onderhandelen, belangenafweging, voorbereiding en professionele besluitvorming.",
+  "tags": ["LinkedIn", "Negotiation", "Strategy", "Communication", "NASBA"]
   }
 
 
