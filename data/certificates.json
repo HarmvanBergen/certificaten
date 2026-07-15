@@ -698,6 +698,34 @@
   "learning_path": "AI People Management",
   "description": "NASBA-variant over het inzetten van AI in people management, teamondersteuning en moderne leiderschapspraktijken.",
   "tags": ["LinkedIn", "AI", "People Management", "Leadership", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "The Manager's Guide to Career Conversations in the Age of AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Career Development"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "c4d21af88d8d2e5644e58dabe059aae048a45537c29caa316ca3c40e26e32b56",
+  "credential_url": "https://www.linkedin.com/learning/certificates/c4d21af88d8d2e5644e58dabe059aae048a45537c29caa316ca3c40e26e32b56",
+  "learning_path": "AI Career Development",
+  "description": "Introductie tot loopbaangesprekken en begeleiding in een AI-gedreven werkcontext.",
+  "tags": ["LinkedIn", "AI", "Career Development", "Leadership", "Human Skills"]
+  },
+  {
+  "title": "The Manager's Guide to Career Conversations in the Age of AI (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Career Development"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "93740915e8d569ac4fabc77e7709e122734a8a82e14ebe1a46c1f2fca46a7c2b",
+  "credential_url": "https://www.linkedin.com/learning/certificates/93740915e8d569ac4fabc77e7709e122734a8a82e14ebe1a46c1f2fca46a7c2b?trk=share_certificate",
+  "learning_path": "AI Career Development",
+  "description": "NASBA-variant over loopbaangesprekken en begeleiding in een AI-gedreven werkcontext.",
+  "tags": ["LinkedIn", "AI", "Career Development", "Leadership", "Human Skills", "NASBA"]
   }
 
 
