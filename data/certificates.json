@@ -1118,6 +1118,48 @@
   "learning_path": "AI Foundations",
   "description": "NASBA-variant van de introductie tot generatieve AI, basisbegrippen en praktische toepassingsrichtingen.",
   "tags": ["LinkedIn", "Generative AI", "AI", "Foundations", "NASBA"]
+  },
+  {
+  "title": "Customer Service Foundations",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Customer Service", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "6e36f55f04b28c1360a914a84a8c2705426da394b3227ee74111a711caa78983",
+  "credential_url": "https://www.linkedin.com/learning/certificates/6e36f55f04b28c1360a914a84a8c2705426da394b3227ee74111a711caa78983",
+  "learning_path": "Customer Service Foundations",
+  "description": "Introductie tot basisprincipes van klantgericht werken, servicecommunicatie en professionele ondersteuning.",
+  "tags": ["LinkedIn", "Customer Service", "Foundations", "Communication"]
+  },
+  {
+  "title": "Customer Service Foundations (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Customer Service", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "470c24c77bc12f6c7578bace8ce65db5ad1687f8c33bfcacae40adf002c767d3",
+  "credential_url": "https://www.linkedin.com/learning/certificates/470c24c77bc12f6c7578bace8ce65db5ad1687f8c33bfcacae40adf002c767d3?trk=share_certificate",
+  "learning_path": "Customer Service Foundations",
+  "description": "NASBA-variant van klantgericht werken, servicecommunicatie en professionele ondersteuning.",
+  "tags": ["LinkedIn", "Customer Service", "Foundations", "Communication", "NASBA"]
+  },
+  {
+  "title": "Customer Service Foundations (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Customer Service", "Foundations"],
+  "level": "Beginner",
+  "issue_date": "2025-11-01",
+  "expiry_date": "",
+  "credential_id": "0511ac253fd5e2b57261afdc58ca5064ec5fe9e9355b02b85df6c507a91b13d9",
+  "credential_url": "https://www.linkedin.com/learning/certificates/0511ac253fd5e2b57261afdc58ca5064ec5fe9e9355b02b85df6c507a91b13d9?trk=share_certificate",
+  "learning_path": "Customer Service Foundations",
+  "description": "PMI-variant van klantgericht werken, servicecommunicatie en professionele ondersteuning in project- en supportcontext.",
+  "tags": ["LinkedIn", "Customer Service", "Foundations", "Communication", "PMI"]
   }
 
 
