@@ -908,6 +908,76 @@
   "learning_path": "AI Leadership",
   "description": "PMI-variant over kansen, uitdagingen en leiderschapskeuzes rond AI-adoptie in organisaties.",
   "tags": ["LinkedIn", "AI", "Leadership", "Opportunities", "Challenges", "PMI"]
+  },
+  {
+  "title": "Integrating Generative AI into Business Strategy",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Business Strategy"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "94498f19edc54e93aa86b8cfa955e26aa001d73b4cba743fb703602adcafe417",
+  "credential_url": "https://www.linkedin.com/learning/certificates/94498f19edc54e93aa86b8cfa955e26aa001d73b4cba743fb703602adcafe417",
+  "learning_path": "AI Business Strategy",
+  "description": "Introductie tot het integreren van generatieve AI in bedrijfsstrategie, besluitvorming en organisatierichting.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Business Strategy", "Leadership"]
+  },
+  {
+  "title": "Integrating Generative AI into Business Strategy (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Business Strategy"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "59ed49d7eab959cbbab30544fb7d778e251f1fab48d03db28f9ad1f191e8b5dc",
+  "credential_url": "https://www.linkedin.com/learning/certificates/59ed49d7eab959cbbab30544fb7d778e251f1fab48d03db28f9ad1f191e8b5dc?trk=share_certificate",
+  "learning_path": "AI Business Strategy",
+  "description": "NASBA-variant over het integreren van generatieve AI in bedrijfsstrategie, besluitvorming en organisatierichting.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Business Strategy", "Leadership", "NASBA"]
+  },
+  {
+  "title": "Integrating Generative AI into Business Strategy (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Business Strategy"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "699e77c32d9ee018584a7f737306e2b96be18d4fde209e1f43b75bf02d69bca3",
+  "credential_url": "https://www.linkedin.com/learning/certificates/699e77c32d9ee018584a7f737306e2b96be18d4fde209e1f43b75bf02d69bca3?trk=share_certificate",
+  "learning_path": "AI Business Strategy",
+  "description": "PMI-variant over het integreren van generatieve AI in bedrijfsstrategie, projectcontext en organisatierichting.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Business Strategy", "Leadership", "PMI"]
+  },
+  {
+  "title": "Integrating Generative AI into Business Strategy (SHRM)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Business Strategy"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "5f9a6e78bfb150ddb2a7db715e08fb941f777d5d7c24182e54e702780f776107",
+  "credential_url": "https://www.linkedin.com/learning/certificates/5f9a6e78bfb150ddb2a7db715e08fb941f777d5d7c24182e54e702780f776107?trk=share_certificate",
+  "learning_path": "AI Business Strategy",
+  "description": "SHRM-variant over het integreren van generatieve AI in bedrijfsstrategie, organisatieontwikkeling en HR-context.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Business Strategy", "Leadership", "SHRM"]
+  },
+  {
+  "title": "Integrating Generative AI into Business Strategy (HRCI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Business Strategy"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "50a130e126c2edec7719ea36ef15eb8348b154652f1577fbae0f301998d7810d",
+  "credential_url": "https://www.linkedin.com/learning/certificates/50a130e126c2edec7719ea36ef15eb8348b154652f1577fbae0f301998d7810d?trk=share_certificate",
+  "learning_path": "AI Business Strategy",
+  "description": "HRCI-variant over het integreren van generatieve AI in bedrijfsstrategie, organisatieontwikkeling en HR-context.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Business Strategy", "Leadership", "HRCI"]
   }
 
 
