@@ -488,6 +488,34 @@
   "learning_path": "AI Human Skills",
   "description": "PMI-variant van menselijke vaardigheden in het AI-tijdperk, gericht op samenwerking, communicatie en professionele effectiviteit.",
   "tags": ["LinkedIn", "AI", "Human Skills", "PMI"]
+  },
+  {
+  "title": "Building an Adaptability Mindset in the Age of AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Adaptability"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "4f578bc6d446fbcd826b23d53e739f10887d7023f44c2f18e033188de9013fe8",
+  "credential_url": "https://www.linkedin.com/learning/certificates/4f578bc6d446fbcd826b23d53e739f10887d7023f44c2f18e033188de9013fe8",
+  "learning_path": "AI Human Skills",
+  "description": "Introductie tot adaptief denken en professioneel omgaan met verandering in een AI-gedreven werkcontext.",
+  "tags": ["LinkedIn", "AI", "Adaptability", "Human Skills"]
+  },
+  {
+  "title": "Building an Adaptability Mindset in the Age of AI (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Adaptability"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "b23421795f37d5c1667093f0b1ffa17733794b2ea59e22ed111d23e4bedb62ef",
+  "credential_url": "https://www.linkedin.com/learning/certificates/b23421795f37d5c1667093f0b1ffa17733794b2ea59e22ed111d23e4bedb62ef?trk=share_certificate",
+  "learning_path": "AI Human Skills",
+  "description": "PMI-variant over adaptief denken en professionele wendbaarheid in het AI-tijdperk.",
+  "tags": ["LinkedIn", "AI", "Adaptability", "Human Skills", "PMI"]
   }
 
 
