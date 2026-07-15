@@ -670,6 +670,34 @@
   "learning_path": "AI Creative Process",
   "description": "Introductie tot het toepassen van generatieve AI binnen creatieve processen, ideevorming en professionele contentontwikkeling.",
   "tags": ["LinkedIn", "AI", "Generative AI", "Creativity", "Creative Process"]
+  },
+  {
+  "title": "Become an AI-Powered People Manager",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "People Management"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "3b5749eda66045b7a5adb925f254453b4916a6a41c4924dff32cb44a77bf515a",
+  "credential_url": "https://www.linkedin.com/learning/certificates/3b5749eda66045b7a5adb925f254453b4916a6a41c4924dff32cb44a77bf515a",
+  "learning_path": "AI People Management",
+  "description": "Introductie tot het inzetten van AI in people management, teamondersteuning en moderne leiderschapspraktijken.",
+  "tags": ["LinkedIn", "AI", "People Management", "Leadership", "Human Skills"]
+  },
+  {
+  "title": "Become an AI-Powered People Manager (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "People Management"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "5ddb3a3b2e80d0edfc80e1f5e394b66b7cca78d5f38c9050c4d49208a7f0153d",
+  "credential_url": "https://www.linkedin.com/learning/certificates/5ddb3a3b2e80d0edfc80e1f5e394b66b7cca78d5f38c9050c4d49208a7f0153d?trk=share_certificate",
+  "learning_path": "AI People Management",
+  "description": "NASBA-variant over het inzetten van AI in people management, teamondersteuning en moderne leiderschapspraktijken.",
+  "tags": ["LinkedIn", "AI", "People Management", "Leadership", "Human Skills", "NASBA"]
   }
 
 
