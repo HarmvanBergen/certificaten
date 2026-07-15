@@ -768,6 +768,34 @@
   "learning_path": "AI Coaching Impact",
   "description": "PMI-variant over coaching-impact met generatieve AI, gericht op begeleiding, communicatie en professionele effectiviteit.",
   "tags": ["LinkedIn", "AI", "Generative AI", "Coaching", "Human Skills", "PMI"]
+  },
+  {
+  "title": "Building a Collaborative Team Culture with AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Team Collaboration"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "ab1799a12c672d3b9e4cca4a460db112e6cdc602569fe9977b5f29e9aa02e0ea",
+  "credential_url": "https://www.linkedin.com/learning/certificates/ab1799a12c672d3b9e4cca4a460db112e6cdc602569fe9977b5f29e9aa02e0ea",
+  "learning_path": "AI Team Collaboration",
+  "description": "Introductie tot het bouwen van een samenwerkende teamcultuur met AI in moderne werkcontexten.",
+  "tags": ["LinkedIn", "AI", "Team Collaboration", "Culture", "Human Skills"]
+  },
+  {
+  "title": "Building a Collaborative Team Culture with AI (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Team Collaboration"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "380f696f387868b2d53d42cb8ca69a6fcbc19a3ff178f39c1d9b867c817937d3",
+  "credential_url": "https://www.linkedin.com/learning/certificates/380f696f387868b2d53d42cb8ca69a6fcbc19a3ff178f39c1d9b867c817937d3?trk=share_certificate",
+  "learning_path": "AI Team Collaboration",
+  "description": "NASBA-variant over het bouwen van een samenwerkende teamcultuur met AI in moderne werkcontexten.",
+  "tags": ["LinkedIn", "AI", "Team Collaboration", "Culture", "Human Skills", "NASBA"]
   }
 
 
