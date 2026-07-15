@@ -2168,6 +2168,76 @@
   "learning_path": "Change Management Professional Certificate",
   "description": "Professioneel certificaat gericht op change management, planning, uitvoering, communicatie en duurzame adoptie.",
   "tags": ["LinkedIn", "Change Management", "Professional Certificate", "Adoption"]
+  },
+  {
+  "title": "Building Resilience",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Resilience", "Professional Skills"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "fc1f52a87107596247c3b7557377972fa19089e8e59ea748fb589814ccb71112",
+  "credential_url": "https://www.linkedin.com/learning/certificates/fc1f52a87107596247c3b7557377972fa19089e8e59ea748fb589814ccb71112",
+  "learning_path": "Resilience Skills",
+  "description": "Introductie tot veerkracht, omgaan met druk en professioneel functioneren in veranderende werkomstandigheden.",
+  "tags": ["LinkedIn", "Resilience", "Professional Skills", "Human Skills"]
+  },
+  {
+  "title": "Building Resilience (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Resilience", "Professional Skills"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "4a130e66b67c964513b1f07160d9f76889deb3f5b11994e4570581a08be0bcf6",
+  "credential_url": "https://www.linkedin.com/learning/certificates/4a130e66b67c964513b1f07160d9f76889deb3f5b11994e4570581a08be0bcf6?trk=share_certificate",
+  "learning_path": "Resilience Skills",
+  "description": "NASBA-variant over veerkracht, omgaan met druk en professioneel functioneren in veranderende werkomstandigheden.",
+  "tags": ["LinkedIn", "Resilience", "Professional Skills", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "Teamwork Foundations",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Teamwork", "Collaboration"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "53b258c9bc1f660b14040e4a1d224b10a32c719a4853611a1358d47dd8142654",
+  "credential_url": "https://www.linkedin.com/learning/certificates/53b258c9bc1f660b14040e4a1d224b10a32c719a4853611a1358d47dd8142654?trk=share_certificate",
+  "learning_path": "Teamwork Foundations",
+  "description": "Introductie tot effectief samenwerken, teamcommunicatie en professionele afstemming in werkcontext.",
+  "tags": ["LinkedIn", "Teamwork", "Collaboration", "Communication"]
+  },
+  {
+  "title": "Teamwork Foundations (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Teamwork", "Collaboration"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "3ab3a8fc41f9133119ed1e0729c1787a4ed0dff57c19188745c8da995fd3e223",
+  "credential_url": "https://www.linkedin.com/learning/certificates/3ab3a8fc41f9133119ed1e0729c1787a4ed0dff57c19188745c8da995fd3e223?trk=share_certificate",
+  "learning_path": "Teamwork Foundations",
+  "description": "NASBA-variant over effectief samenwerken, teamcommunicatie en professionele afstemming in werkcontext.",
+  "tags": ["LinkedIn", "Teamwork", "Collaboration", "Communication", "NASBA"]
+  },
+  {
+  "title": "Teamwork Foundations (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["Teamwork", "Collaboration"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "8707b067dc9ddf4e89d42085df559887ebfb2475107cade98470164435b390b7",
+  "credential_url": "https://www.linkedin.com/learning/certificates/8707b067dc9ddf4e89d42085df559887ebfb2475107cade98470164435b390b7?trk=share_certificate",
+  "learning_path": "Teamwork Foundations",
+  "description": "PMI-variant over effectief samenwerken, teamcommunicatie en professionele afstemming in werkcontext.",
+  "tags": ["LinkedIn", "Teamwork", "Collaboration", "Communication", "PMI"]
   }
 
 
