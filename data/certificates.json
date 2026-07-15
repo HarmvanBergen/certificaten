@@ -2238,6 +2238,20 @@
   "learning_path": "Teamwork Foundations",
   "description": "PMI-variant over effectief samenwerken, teamcommunicatie en professionele afstemming in werkcontext.",
   "tags": ["LinkedIn", "Teamwork", "Collaboration", "Communication", "PMI"]
+  },
+  {
+  "title": "vmbo/tl",
+  "provider": "Scholengemeenschap Guido de Brès",
+  "type": "Diploma",
+  "domains": ["Education", "Secondary Education"],
+  "level": "Secondary Education",
+  "issue_date": "",
+  "expiry_date": "",
+  "credential_id": "",
+  "credential_url": "",
+  "learning_path": "Secondary Education",
+  "description": "Diploma vmbo theoretische leerweg behaald bij Scholengemeenschap Guido de Brès.",
+  "tags": ["Education", "Secondary Education", "vmbo/tl", "Diploma"]
   }
 
 
