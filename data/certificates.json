@@ -572,6 +572,48 @@
   "learning_path": "AI Communication Skills",
   "description": "NASBA-variant over het versterken van communicatievaardigheden met generatieve AI in professionele werkcontext.",
   "tags": ["LinkedIn", "AI", "Generative AI", "Communication", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "Amplify Your Critical Thinking with Generative AI",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Critical Thinking"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "e6fc0a6c2a6aca9706c152af0a1254930c75503703ad634cd221b64d0380ea28",
+  "credential_url": "https://www.linkedin.com/learning/certificates/e6fc0a6c2a6aca9706c152af0a1254930c75503703ad634cd221b64d0380ea28",
+  "learning_path": "AI Critical Thinking",
+  "description": "Introductie tot het versterken van kritisch denken met generatieve AI in professionele besluitvorming en analyse.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Critical Thinking", "Human Skills"]
+  },
+  {
+  "title": "Amplify Your Critical Thinking with Generative AI (NASBA)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Critical Thinking"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "cebc8211f2279da05060f74dd25233a060ac70747700faf77bd9289f3b346a9e",
+  "credential_url": "https://www.linkedin.com/learning/certificates/cebc8211f2279da05060f74dd25233a060ac70747700faf77bd9289f3b346a9e?trk=share_certificate",
+  "learning_path": "AI Critical Thinking",
+  "description": "NASBA-variant over het versterken van kritisch denken met generatieve AI in professionele besluitvorming en analyse.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Critical Thinking", "Human Skills", "NASBA"]
+  },
+  {
+  "title": "Amplify Your Critical Thinking with Generative AI (PMI)",
+  "provider": "LinkedIn",
+  "type": "Course",
+  "domains": ["AI", "Critical Thinking"],
+  "level": "Beginner",
+  "issue_date": "2025-09-01",
+  "expiry_date": "",
+  "credential_id": "0b0928e066ff3dfc6822d1783f9d18c79e9ac075c1b7151fb3a91c154cf23263",
+  "credential_url": "https://www.linkedin.com/learning/certificates/0b0928e066ff3dfc6822d1783f9d18c79e9ac075c1b7151fb3a91c154cf23263?trk=share_certificate",
+  "learning_path": "AI Critical Thinking",
+  "description": "PMI-variant over kritisch denken met generatieve AI, gericht op analyse, besluitvorming en professionele effectiviteit.",
+  "tags": ["LinkedIn", "AI", "Generative AI", "Critical Thinking", "Human Skills", "PMI"]
   }
 
 
