@@ -2266,6 +2266,20 @@
   "learning_path": "Kaseya Datto Backup",
   "description": "Kaseya Certified Technician-certificering voor Datto Backup, gericht op basiskennis van backup, herstel en productgebruik binnen Kaseya/Datto-omgevingen.",
   "tags": ["Kaseya", "Kaseya University", "Datto Backup", "Backup", "Business Continuity", "Certification"]
+  },
+  {
+  "title": "Kaseya Certified Technician in Datto RMM",
+  "provider": "Kaseya University",
+  "type": "Certification",
+  "domains": ["RMM", "Datto RMM", "Remote Monitoring and Management"],
+  "level": "Beginner",
+  "issue_date": "2026-07-16",
+  "expiry_date": "2028-07-16",
+  "credential_id": "",
+  "credential_url": "",
+  "learning_path": "Kaseya Datto RMM",
+  "description": "Kaseya Certified Technician-certificering voor Datto RMM, gericht op basiskennis van remote monitoring, endpointbeheer en productgebruik binnen Kaseya/Datto-omgevingen.",
+  "tags": ["Kaseya", "Kaseya University", "Datto RMM", "RMM", "Remote Monitoring and Management", "Certification"]
   }
 
 
