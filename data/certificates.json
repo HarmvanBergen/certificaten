@@ -2308,6 +2308,20 @@
   "learning_path": "Kaseya DarkWeb ID",
   "description": "Kaseya Certified Technician-certificering voor DarkWeb ID, gericht op basiskennis van dark web monitoring, credential exposure en identity protection binnen Kaseya-omgevingen.",
   "tags": ["Kaseya", "Kaseya University", "DarkWeb ID", "Security", "Dark Web Monitoring", "Identity Protection", "Certification"]
+  },
+  {
+  "title": "Kaseya Certified Technician in BullPhish ID",
+  "provider": "Kaseya University",
+  "type": "Certification",
+  "domains": ["Security Awareness", "Phishing Simulation", "Cybersecurity"],
+  "level": "Beginner",
+  "issue_date": "2026-07-20",
+  "expiry_date": "2028-07-20",
+  "credential_id": "59b3324b/cecdc9564",
+  "credential_url": "https://app.diplomasafe.com/en-US/s/59b3324b/cecdc9564",
+  "learning_path": "Kaseya BullPhish ID",
+  "description": "Kaseya Certified Technician-certificering voor BullPhish ID, gericht op basiskennis van security awareness training, phishing simulaties en gebruikersgerichte cyberweerbaarheid binnen Kaseya-omgevingen.",
+  "tags": ["Kaseya", "Kaseya University", "BullPhish ID", "Security Awareness", "Phishing Simulation", "Cybersecurity", "Certification"]
   }
 
 
