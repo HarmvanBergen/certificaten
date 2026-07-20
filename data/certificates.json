@@ -2294,6 +2294,20 @@
   "learning_path": "Kaseya IT Glue",
   "description": "Kaseya Certified Technician-certificering voor IT Glue, gericht op basiskennis van documentatiebeheer, informatiekwaliteit en productgebruik binnen Kaseya/IT Glue-omgevingen.",
   "tags": ["Kaseya", "Kaseya University", "IT Glue", "Documentation", "IT Documentation", "Certification"]
+  },
+  {
+  "title": "Kaseya Certified Technician in DarkWeb ID",
+  "provider": "Kaseya University",
+  "type": "Certification",
+  "domains": ["Security", "Dark Web Monitoring", "Identity Protection"],
+  "level": "Beginner",
+  "issue_date": "2026-07-20",
+  "expiry_date": "2028-07-20",
+  "credential_id": "31648056/a27ce12f",
+  "credential_url": "https://app.diplomasafe.com/en-US/s/31648056/a27ce12f",
+  "learning_path": "Kaseya DarkWeb ID",
+  "description": "Kaseya Certified Technician-certificering voor DarkWeb ID, gericht op basiskennis van dark web monitoring, credential exposure en identity protection binnen Kaseya-omgevingen.",
+  "tags": ["Kaseya", "Kaseya University", "DarkWeb ID", "Security", "Dark Web Monitoring", "Identity Protection", "Certification"]
   }
 
 
